@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="UPC/upclogo.png" alt="upc-logo" width="250px" height="250px"/>
+    <img src="./imagenes/logo-upc.png" alt="upc-logo" width="80px" height="80px"/>
 </p>
 
 <h1 align="center">
@@ -26,13 +26,13 @@
 
 <div align="center">
 
-| <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
-|:-------------------------------------:|:-------------------------------------:|
-|  Paredes Santos, Fabrizio Alberto     |              u202310914               |
-|       Ríos Pacheco, Héctor Javier     |              u20231c540               |
-|          Galvez Chambi, Jhon          |              u202323270               |
-|         Guevara Tejada, Jorge         |              u202316057               |
-|        Linares Bernable, Cesar        |              u202019409               |
+| <div style="width:300px">Alumno</div>       | <div style="width:125px">Código</div> |
+|:-------------------------------------------:|:-------------------------------------:|
+|  Paredes Santos, Fabrizio Alberto           |              u202310914               |
+|       Ríos Pacheco, Héctor Javier           |              u20231c540               |
+| Prieto Mantari, Leonardo Fabrizzio Junior   |              u202319949               |
+|       Rodriguez Macedo, Sebastian           |              u202310199               |
+|       Linares Arroyo, Jorge Alexandro       |              u202318624               |
 
 </div>
 
