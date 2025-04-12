@@ -29,7 +29,7 @@
 | <div style="width:300px">Alumno</div>       | <div style="width:125px">Código</div> |
 |:-------------------------------------------:|:-------------------------------------:|
 |  Paredes Santos, Fabrizio Alberto           |              u202310914               |
-|       Ríos Pacheco, Héctor Javier           |              u2023              |
+|       Ríos Pacheco, Héctor Javier           |              u20232938u492742384      |
 | Prieto Mantari, Leonardo Fabrizzio Junior   |              u202319949               |
 |       Rodriguez Macedo, Sebastian           |              u202310199               |
 |       Linares Arroyo, Jorge Alexandro       |              u202318624               |
