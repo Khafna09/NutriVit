@@ -488,14 +488,3 @@ Sí, afectaría directamente la viabilidad del modelo freemium y la sostenibilid
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <hr>
-
-## Conclusiones
-
-<hr>
-
-## Bibliografía
-
-<hr>
-
-## Anexos
-
