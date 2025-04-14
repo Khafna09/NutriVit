@@ -194,7 +194,15 @@
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
 ### 2.2. Entrevistas
-
+sdkfsdf
+sdfsdf
+sdf
+sdf
+sdf
+dsf
+ds
+fsd
+sdf
 #### 2.2.1. Diseño de entrevistas
 
 #### 2.2.2. Registro de entrevistas
