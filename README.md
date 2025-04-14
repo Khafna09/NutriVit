@@ -424,6 +424,18 @@ Sí, afectaría directamente la viabilidad del modelo freemium y la sostenibilid
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design
+skfjisdjf
+sfmksdmf
+sdkfsldkf
+skflsd
+sdkfjsdfñ}sdjf
+jsdfksdf}
+jsdfjsd
+ksdjfsd
+iksdfsd
+jsdkf
+isdf
+
 
 #### 4.4.1. Web Applications Wireframes.
 
